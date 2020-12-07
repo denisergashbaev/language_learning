@@ -1,11 +1,26 @@
-# How to learn a language
+# How to learn a(ny) language based on the hypothesis of Comprehensible Input
 
-* Motivation
-* get a book and read it (especially what you've already read in your native language)
-* force yourself to learn every day (it's very painful and embarrassing)
-* mistakes are good
+## Tools
 
-<https://www.youtube.com/watch?v=Bxdzy7-kYa8&pbjreload=101&ab_channel=FingtamLanguage
+* [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en)
+* [Lingq](https://www.lingq.com/)
+* [Readlang](https://readlang.com/)
+
+## Interviews
+
+<https://www.youtube.com/watch?v=_VYfpL6lcj>
+
+* Interview of Matt (who learned Japanese in about 4-5 years to a an almost native level by self-study) with a recognized expert on language acquisition
+* Talking about importance of comprehensible input for language learning as language learning happens (mostly) in subconscious level
+* ... to be continued
+
+<https://www.youtube.com/watch?v=lqxWYAGDQy0&ab_channel=Mattvs.Japan>
+
+* Learned Spanish to strong B2 level in 10 months by (mostly) self-study
+* Time dedication: for something like ~8months 30mins a day ONLY
+* ... to be continued
+
+<https://www.youtube.com/watch?v=Bxdzy7-kYa8&pbjreload=101&ab_channel=FingtamLanguage>
 
 * moving to a country where your target language is spoken just makes things easier:
   * it motivates your more
@@ -13,14 +28,14 @@
   * flashcards with words
   * carry a notebook to write down the words you don't know
   * write down the words that you know in your native language but not in the target language
-  * using memrise
+  * using `memrise`
   * read books
   * don't worry about understanding each word!
     * there is scientific research about it
     * worry about the general understanding only
   * avoid english speakers (yeah, i kinda disagree, do not stress yourself)
 
-<https://www.youtube.com/watch?v=dDZgec6uzMs&ab_channel=Mattvs.Japa
+<https://www.youtube.com/watch?v=dDZgec6uzMs&ab_channel=Mattvs.Japa>
 
 * Luke Truman. Learned Cantonese and learning Spanish now
   * Do not spend time on podcasts
@@ -42,7 +57,9 @@
   * Good balance: non-negotiable 1 hour but then having time in the evening to enjoy life with his mates
   * If you watch TV, just watch it in the target language. Do not add it on top 
 
-* English phrases:
-  * After moving back to US from El Salvador, my Spanish does not roll off the tong as easy as it used to
-  * Her Mom is an English teacher, but she has never spoken English to me because she is hell-bent on helping me [with my Cantonese]
+<https://www.youtube.com/watch?v=3Tl0l-HTX0o&ab_channel=Dorothea__v>
 
+* Motivation
+* Get a book and read it (especially what you've already read in your native language)
+* Force yourself to learn every day (it's very painful and embarrassing)
+* Mistakes are good
