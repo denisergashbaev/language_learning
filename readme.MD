@@ -1,4 +1,4 @@
-# How to learn Spanish
+# How to learn a language
 
 * Motivation
 * get a book and read it (especially what you've already read in your native language)
