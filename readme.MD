@@ -2,15 +2,17 @@
 
 ## Tools
 
-* [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en)
-* [Lingq](https://www.lingq.com/)
-* [Readlang](https://readlang.com/)
+* [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en) -- chrome extension
+* [Lingq](https://www.lingq.com/) -- website where you can read texts (built-in dictionary) and import youtube/netflix videos
+* [Readlang](https://readlang.com/) -- read texts and import youtube videos
 
 ## Interviews
 
-<https://www.youtube.com/watch?v=_VYfpL6lcj>
+<https://www.youtube.com/watch?v=_VYfpL6lcjE>
 
-* Interview of Matt (who learned Japanese in about 4-5 years to a an almost native level by self-study) with a recognized expert on language acquisition
+* Interview of Matt with Stephen Krashen
+  * Matt has learned Japanese in about 4-5 years to a an almost native level by **self-study**
+  * Stephen Krashen is a recognized expert on language acquisition
 * Talking about importance of comprehensible input for language learning as language learning happens (mostly) in subconscious level
 * ... to be continued
 
