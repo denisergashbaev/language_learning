@@ -1,4 +1,9 @@
-# How to learn a(ny) language based on the hypothesis of Comprehensible Input
+# How to learn a (possible any) language based on the hypothesis of Comprehensible Input
+
+There is arguably a line of research and a series of personal stories that show that language learning is primarily a subconscious activity. Therefore, the techniques for acquiring a new language should focus for the most part (some say 80-90%) on comprehensible input (reading texts, luckily this includes subtitles in movies and series) supported (but not dominated by) explicit grammar and language structure learning. Many self-taught foreign-language-as-native speakers refer to this resource
+
+* [AJATT](http://www.alljapaneseallthetime.com/blog/)
+
 
 ## Tools
 
