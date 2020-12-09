@@ -5,13 +5,13 @@ There is arguably a line of research and a series of personal stories that show 
 * [AJATT](http://www.alljapaneseallthetime.com/blog/)
 
 
-## Tools
+## Tools that help with language learning (extracted from the interviews below)
 
 * [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en) -- chrome extension
 * [Lingq](https://www.lingq.com/) -- website where you can read texts (built-in dictionary) and import youtube/netflix videos
 * [Readlang](https://readlang.com/) -- read texts and import youtube videos
 
-## Interviews
+## Interviews with language learners documenting their impressive progress of mastering new languages
 
 <https://www.youtube.com/watch?v=_VYfpL6lcjE>
 
